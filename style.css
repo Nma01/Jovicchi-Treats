@@ -1,0 +1,47 @@
+.container {
+  /* background-color: rgb(186, 182, 182); */
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.description {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.more-info {
+  display: flex;
+  gap: 15px;
+}
+summary{
+    font-size: 18px;
+    font-weight: bold;
+}
+label{
+    margin-right: 5px;
+}
+.quantity input{
+    width: 40px;
+    padding: 8px;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+      border: 1px solid #b7b5b5;
+      font-size: 16px;
+}
+
+select {
+    font-size: 16px;
+    padding: 8px;
+    border-radius: 3px;
+    background-color: #f0f0f0;
+    border: 1px solid #b7b5b5;
+    outline: none;
+}
+
+.description img{
+ 
+}
